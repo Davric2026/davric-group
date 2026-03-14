@@ -41,8 +41,8 @@ export default function ContactPage() {
                          <div className="space-y-2">
                             <span className="text-[9px] font-black text-davic-primary uppercase tracking-widest">Address</span>
                             <p className="text-xs font-bold text-davic-accent uppercase tracking-widest leading-loose">
-                               Lagos, Nigeria <br />
-                               Global Operations Hub
+                               26a, Block 27, Alaafin Avenue <br />
+                               Oluyole, Ibadan, Oyo State, Nigeria.
                             </p>
                          </div>
                       </div>
@@ -54,7 +54,7 @@ export default function ContactPage() {
                          <div className="space-y-2">
                             <span className="text-[9px] font-black text-davic-primary uppercase tracking-widest">Phone</span>
                             <p className="text-xs font-bold text-davic-accent uppercase tracking-widest">
-                               +234 (0) 800 DAVRIC
+                               +234 803 915 4016
                             </p>
                          </div>
                       </div>
